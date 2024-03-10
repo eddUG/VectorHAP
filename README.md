@@ -16,3 +16,8 @@ nextflow /path/to/repository/main.nf \
         --project_id XXXXXXXXXX \
         --input_manifest /path/to/input_manifest.tsv`
 
+## Authors and Acknowledgements
+
+This pipeline has been implemented by the [Data Analysis and Engineering Team](#) at the Wellcome Sanger Institute's Genomic Surveillance Unit. The methodology implemented by early versions of the pipeline is described by [Alistair et. al](#). The methods and approach continue to be actively developed by GSU.
+
+
