@@ -14,10 +14,14 @@ nextflow /path/to/repository/main.nf \
         -with-trace \
         -resume \
         --project_id XXXXXXXXXX \
-        --input_manifest /path/to/input_manifest.tsv`
+        --input_manifest /path/to/input_manifest.tsv
+```
+
 
 ## Authors and Acknowledgements
 
-This pipeline has been implemented by the [Data Analysis and Engineering Team](#) at the Wellcome Sanger Institute's Genomic Surveillance Unit. The methodology implemented by early versions of the pipeline is described by [Alistair et. al](#). The methods and approach continue to be actively developed by GSU.
+This pipeline has been implemented as part of my vector genomics fellowship rotation to the [Data Analysis and Engineering Team](https://www.sanger.ac.uk/group/data-analysis-and-engineering/) at the Wellcome Sanger Institute's [Genomic Surveillance Unit](https://www.sanger.ac.uk/collaboration/genomic-surveillance-unit/). The methodology implemented by early versions of the pipeline is described by [Alistair et. al](https://github.com/malariagen/pipelines/blob/master/docs/specs/phasing-vector.md).
+
+The methods and approach continue to be actively developed by the GSU.
 
 
