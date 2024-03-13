@@ -1,0 +1,3 @@
+sample_id	bam_path	bai_path	vcf_path	zarr_path
+AA0052-C	./alignments/AA0052-C.bam	./alignments/AA0052-C.bam.bai	./vcfs/AA0052-C.vcf.gz	./zarr/AA0052-C.zarr.zip
+AB0252-C	./alignments/AB0252-C.bam	./alignments/AB0252-C.bam.bai	./vcfs/AB0252-C.vcf.gz	./zarr/AB0252-C.zarr.zip
