@@ -38,7 +38,8 @@ The `validation` directory contains the following scripts:
 
 ### Running the Validation Scripts
 
-####Interactive approach
+#### Interactive approach
+
 To run the validation scripts, navigate to the `validation` directory and execute the desired script. For example:
 
 ```bash
@@ -51,7 +52,8 @@ cd validation
 python3 validate_ligateregions.py
 ```
 
-####Non-interactive approach
+#### Non-interactive approach
+
 To submit all validation tasks in a single batch, make use of the all_in_one_validation script.
 
 ```bash
