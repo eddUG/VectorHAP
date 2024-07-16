@@ -59,7 +59,7 @@ cd validation
 python3 all_in_one_validation.py
 ```
 
-Ensure that the necessary dependencies (e.g., bcftools, Zarr, pyVCF) are installed and available in your PATH.
+Ensure that the necessary dependencies (e.g., bcftools, zarr, pyVCF) are installed and available in your PATH.
 
 
 ## Authors and Acknowledgements
